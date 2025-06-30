@@ -1,8 +1,10 @@
 # 👩🏻‍💻 Victor Leal
 
-**`Desenvolvedor Froent-End`**
+**`Desebvolvedor Back-End em formação`**
 
-Me chamo Victor Freitas Leal, tenho 20 anos e sou natural de Mato Grosso do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM Centro Universitário. Gosto muito de tecnologia.".
+Me chamo Victor Freitas Leal, tenho 20 anos e sou natural de Mato Grosso do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na FAM Centro Universitário.
+Sou apaixonado por tecnologia e estou me dedicando aos estudos em Java com foco em desenvolvimento back-end, buscando entender profundamente lógica de programação, estrutura de dados, POO e boas práticas.
+Estou dando os primeiros passos na área com projetos práticos que me ajudam a consolidar o que venho aprendendo. Cada erro me ensina, cada acerto me motiva, e sigo construindo minha base com muita vontade de crescer como desenvolvedor.
 
 ---
 
