@@ -1,10 +1,12 @@
 # 👩🏻‍💻 Victor Leal
 
-**`Desebvolvedor Back-End em formação`**
+**`Desenvolvedor Backend em formação | Java | Spring Boot | APIs REST`**
 
-Me chamo Victor Freitas Leal, tenho 20 anos e sou natural de Mato Grosso do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na FAM Centro Universitário.
-Sou apaixonado por tecnologia e estou me dedicando aos estudos em Java com foco em desenvolvimento back-end, buscando entender profundamente lógica de programação, estrutura de dados, POO e boas práticas.
-Estou dando os primeiros passos na área com projetos práticos que me ajudam a consolidar o que venho aprendendo. Cada erro me ensina, cada acerto me motiva, e sigo construindo minha base com muita vontade de crescer como desenvolvedor.
+Me chamo Victor Freitas Leal, tenho 21 anos e sou de Mato Grosso do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas na FAM Centro Universitário e também estou em formação no Técnico em Desenvolvimento de Sistemas pelo Senac.
+
+Tenho foco em desenvolvimento backend com Java e Spring Boot, atuando na criação de APIs REST, manipulação de dados e integração entre sistemas. Possuo experiência prática com projetos que envolvem persistência de dados, testes automatizados e organização de código seguindo boas práticas.
+
+Estou em constante evolução, buscando aprimorar minhas habilidades e construir soluções cada vez mais completas e escaláveis.
 
 ---
 
