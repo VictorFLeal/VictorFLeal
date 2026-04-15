@@ -3,7 +3,7 @@
 **`Desenvolvedor Backend em formação | Java | Spring Boot | APIs REST`**
 
 📫 Email: victoralealdev@gmail.com  
-🔗 LinkedIn: [LINKEDIN](https://www.linkedin.com/in/victorfreitas10/)
+🔗 LinkedIn: [Acessar perfil](https://www.linkedin.com/in/victorfreitas10/)
 💻 GitHub: https://github.com/VictorFLeal
 
 Me chamo Victor Freitas Leal, tenho 21 anos e sou de Mato Grosso do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas na FAM Centro Universitário e também estou em formação no Técnico em Desenvolvimento de Sistemas pelo Senac.
